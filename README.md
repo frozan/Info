@@ -1,6 +1,5 @@
 # Info
-## title: Frozan Maqsoodi
-## name: Frozan Maqsoodi
+## Frozan Maqsoodi
 
 ### Primarylinks:
 - title: Github
