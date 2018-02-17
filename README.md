@@ -2,7 +2,7 @@
 ## Frozan Maqsoodi
 
 ### Primarylinks:
-- title: Github
+- Github
 - url: https://github.com/frozan
 
 ### Skills:
@@ -11,7 +11,7 @@
 - Python
 
 ### Education:
-- level: Master's of computer science (M.Sc)<br>
+- Master's of computer science (M.Sc) <br>
 Expected graduation date: July 2019
 subject: Distributed Computing
 school: University of Tartu
